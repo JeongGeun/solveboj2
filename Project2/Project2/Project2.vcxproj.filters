@@ -42,5 +42,11 @@
     <ClCompile Include="경주로 건설.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="동굴탐험.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기둥과 보.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
