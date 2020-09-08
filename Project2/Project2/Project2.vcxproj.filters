@@ -51,5 +51,8 @@
     <ClCompile Include="프렌즈4블록.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="지형 이동.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
