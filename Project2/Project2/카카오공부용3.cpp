@@ -6,6 +6,15 @@ using namespace std;
 
 vector<int>arr[3][2][2][2];
 
+
+/***
+    1. 각 쿼리를 분기하여 점수를 다음 4차원 벡터를 선언한다.
+    2. info를 파싱하고 4차원 배열의 첫번째 인덱스에는 언어,두 번째에는 앞,뒤, 세번째에는 주니어,시니어, 마지막에는 음식을 분기한 후 값으로 score를 push한다.
+    3. 4차원 배열에 담겨져 있는 값을 오름차순으로 정렬한다.
+    4. query값을 파싱해서 읽으면서 이분탐색으로 정렬된 값 중 쿼리에서 들어온 값보다 큰 값이 시작하는 위치를 찾는다.
+    5. answer에 vector 크기- 시작위치를 뺀 값을 더해준다
+***/
+
 vector<int> solution(vector<string> info, vector<string> query) {
     vector<int> answer;
     for (int i = 0; i < info.size(); i++)
