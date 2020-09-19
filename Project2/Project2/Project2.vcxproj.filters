@@ -75,5 +75,14 @@
     <ClCompile Include="카카오공부용4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2N타일링.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="힙.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배달.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
