@@ -90,5 +90,11 @@
     <ClCompile Include="17822번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="16639 괄호추가하기3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10653 마라톤2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
