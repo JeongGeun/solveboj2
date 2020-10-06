@@ -96,5 +96,17 @@
     <ClCompile Include="10653 마라톤2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="17780 새로운게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1800 인터넷 설치.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17182번 우주 탐사선.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4256번 트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
