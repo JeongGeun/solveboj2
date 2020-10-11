@@ -111,5 +111,20 @@
     <ClCompile Include="12865 평범한 배낭.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1655 가운데를 말해요.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9376번 탈옥.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11066 파일합치기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="KCM Travel.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구간합구하기2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
