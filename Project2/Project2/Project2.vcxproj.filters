@@ -126,5 +126,8 @@
     <ClCompile Include="구간합구하기2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="최솟값과 최댓값.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
